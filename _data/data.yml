@@ -27,7 +27,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Advanced (B2) # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Advanced B2 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -40,13 +40,13 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Adaptability
       link: # dejar en blanco
       
-    - item: Time Management
+    - item: Leadership
       link: # dejar en blanco
       
-    - item: Time Management
+    - item: Problem Solving
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
