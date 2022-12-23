@@ -27,7 +27,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Advanced (B2) # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -42,96 +42,64 @@ sidebar:
 
     - item: Time Management
       link: # dejar en blanco
+      
+    - item: Time Management
+      link: # dejar en blanco
+      
+    - item: Time Management
+      link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    Enthusiastic about technology, entrusted in helping people and committed to create a better world. I have always been a passionate person with technology. I like to help others and I am always excited to learn new things. Since I was little I started creating servers to play with my friends, and as time went by I was introduced to the world of technology, the internet of things, and especially how to deploy my small projects, into something much larger and more functional using new technologies and learning about the cloud. I hope I can help anyone and empower more people to create a better world.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Software Engineering
+    university: Universidad de Colima
+    time: 2020 Aug - current
     details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+      B.S. in Software Engineering, GPA: 96/100.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Ruby on Rails Developer
+    time: August 2022 - December 2022
+    company: BrightCoders Academy
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+        - Focused on learning Ruby or Rails using agile methodologies for development.
+        - Using object-oriented programming development for better management.
+        - Trained with mob programming and pair programming for teamwork and brainstorming to generate a solution.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Microsoft Learn Student Ambassador
+    time: April 2022 - Current
+    company: Microsoft
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+        - Student Ambassador in charge of learning Microsoft technologies and implementing it in personal and public projects that empower the community.
+        - Held events aimed at the gaming industry and services that can be executed in Microsoft Azure for the development of video games.
+        - Focus on researching and sharing information about the development of applications based on Microsoft technologies like .NET using Microsoft Learn.
 # Registra aquí los proyectos en los que has participado
 projects:
     title: Projects
     
     assignments:
-      - title: Velocity
+      - title: Web platform to help deaf people with digital interactive learning.
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Associated with Universidad de Colima"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: REME Prototype
+        link: "https://8wz539.axshare.com/"
+        tagline: "Prototype app that helps diabetic kids to have a register of insulin and glucose."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: SGSI Restaurant CRUD
+        link: "https://gti-restaurante.fly.dev/"
+        tagline: "A responsive website template designed to help restaurants to manage their products or services."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Time Checker Rails Project
+        link: "https://kata06-reloj-checador.fly.dev/"
+        tagline: "A website template designed to help bussiness to manage their employees."
         
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -143,23 +111,26 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: Ruby
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: Ruby on Rails
+      level: 60%
 
-    - name: C/C++
+    - name: HTML
+      level: 80%
+
+    - name: Javascript
+      level: 80%
+
+    - name: CSS
+      level: 60%
+
+    - name: .NET
       level: 40%
+      
+    - name: PostgreSQL
+      level: 80%
 
 # NO MODIFICAR
 footer: >
