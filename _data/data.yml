@@ -53,13 +53,13 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Enthusiastic about technology, entrusted in helping people and committed to create a better world. I have always been a passionate person with technology. I like to help others and I am always excited to learn new things. Since I was little I started creating servers to play with my friends, and as time went by I was introduced to the world of technology, the internet of things, and especially how to deploy my small projects, into something much larger and more functional using new technologies and learning about the cloud. I hope I can help anyone and empower more people to create a better world.
+    Enthusiastic about technology, entrusted in helping people and committed to create a better world. I have always been a passionate person with technology. I like to help others and I am always excited to learn new things. I was introduced to the world of technology, the internet of things, and especially how to deploy small projects, into something much larger and more functional using new technologies and learning about the cloud. I hope I can help anyone and empower more people to create a better world.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Software Engineering
     university: Universidad de Colima
-    time: 2020 Aug - current
+    time: August 2020 - Current
     details: |
       B.S. in Software Engineering, GPA: 96/100.
 
